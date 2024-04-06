@@ -25,4 +25,4 @@
 
 ##
 
-![Snake animation](https://github.com/PedroJanneo/PedroJanneo/blob/output/github-contribution-grid-snale.svg)
+
