@@ -1,8 +1,8 @@
-## Pedro Janneo 👋
+## Olá, sou o Pedro Janneo!
 
 - 🌱 Aprendendo: Java
 - 😄 Pronouns: Ele/Dele
-- 🤓 conhecimentos: Html, Css, JavaScript e Python.
+- 🤓 Conhecimentos: Html, Css, JavaScript e Python.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&bg_color=00000000)
@@ -20,4 +20,5 @@
  
 <div>
 <a href="https://www.linkedin.com/in/pedrohenriquejanneo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
 </div>
