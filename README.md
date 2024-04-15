@@ -1,7 +1,7 @@
 ## Olá, sou o Pedro Janneo!
 
 - 🌱 Aprendendo: Java. 
-- 😄 Pronouns: Ele/Dele.  
+- 😄 Pronouns: Ele/Dele.   
 - 🤓 Conhecimentos: Html, Css, JavaScript e Python.
 
 
