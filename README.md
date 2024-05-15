@@ -2,7 +2,7 @@
 
 - 🌱 Aprendendo: Java. 
 - 😄 Pronomes: Ele/Dele.   
-- 🤓 Conhecimentos: Html, Css, JavaScript e Python.
+- 🤓 Conhecimentos: Html, Css, JavaScript, Python e Php.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&theme=transparent)
