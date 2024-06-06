@@ -5,8 +5,8 @@
 - 🤓 Conhecimentos: Html, Css, JavaScript, Python e Php.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJanneo&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&theme=defaul)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJanneo&layout=compact&theme=default)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Peu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
