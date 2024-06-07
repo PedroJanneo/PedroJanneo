@@ -5,7 +5,7 @@
 - 🤓 Conhecimentos: Html, Css, JavaScript, Python e Php.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&theme=defaul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJanneo&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJanneo&layout=compact&theme=default)
 
 <div style="display: inline_block"><br>
