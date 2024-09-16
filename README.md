@@ -1,4 +1,9 @@
-## Olá, sou o Pedro Janneo!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003366&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Pedro+Janneo+;Tenho+19+anos;Sou+de+Taboão+da+Serra,+SP+;Sou+Desenvolvedor+FullStack+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003366&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Janneo+;I'm+19+years+old;I+am+from+Taboão+da+Serra,+SP+;I+am+a+FullStack+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+---
 
 - 🌱 Aprendendo: Java. 
 - 😄 Pronomes: Ele/Dele.   
