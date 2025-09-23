@@ -18,7 +18,7 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 [LembrAI](https://github.com/PedroJanneo/LembrAI)  
+🔹 [LembrAI](https://github.com/PedroJanneo/Lembra-AI)  
 Aplicação para lembrar dívidas entre amigos com notificações automáticas.  
 - **Stack:** Java, Spring Boot, MySQL, Twilio, Stripe  
 - **Diferencial:** backend escalável com integrações reais de APIs  
