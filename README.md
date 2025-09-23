@@ -22,8 +22,7 @@
 Aplicação para lembrar dívidas entre amigos com notificações automáticas.  
 - **Stack:** Java, Spring Boot, MySQL, Twilio, Stripe  
 - **Diferencial:** backend escalável com integrações reais de APIs  
-- **Impacto:** enviou notificações automáticas para +50 usuários com sucesso  
-
+- **Impacto:** ajudou meu estudos em java/spring boot
 🔹 [BookStore (refatorado para Java)](https://github.com/PedroJanneo/bookstore-java)  
 Sistema de livraria.  
 - **Stack:** Java (Spring Boot), MySQL  
