@@ -4,6 +4,7 @@
 ---
 
 🚀 Backend Developer Júnior | Java & Spring Boot, com experiência prática em APIs REST e integrações.
+
 📌 Perfil com aprendizado rápido, boa base em backend e experiência prática em projetos completos — da implementação à integração.
 
 ---
